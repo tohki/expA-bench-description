@@ -15,7 +15,7 @@ http://192.168.100.49/~pi/progA.php
 ```
 また，Raspberry PiのIPアドレスはターミナルで以下のコマンドを実行することで確認できます．
 ```
-$ ip addr show
+$ ip a
 ```
 <br>（画像）<br>
 上画像の場合，`192.168.100.49`がRaspberry PiのIPアドレスとなります．
