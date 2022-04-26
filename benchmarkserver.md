@@ -89,7 +89,7 @@ http://localhost:3000
 ```
 ./main -n 5 
 ```
-[コマンドプロンプト上でのフォルダの移動方法](https://google.com)
+[コマンドプロンプトの基本的なコマンド一覧](https://google.com)
 
 ### 余談
 ベンチマークサーバはgolang製のベンチマークツール[hey](https://google.com)を使用して計測を行っています．
