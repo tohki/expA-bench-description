@@ -84,8 +84,5 @@ http://localhost:3000
 ```
 ./main -n 5 
 ```
-[コマンドプロンプトの基本的なコマンド一覧](https://google.com)
-
-### 余談
-ベンチマークサーバはgolang製のベンチマークツール[hey](https://google.com)を使用して計測を行っています．
+[コマンドプロンプトの基本的なコマンド一覧](https://docs.microsoft.com/ja-jp/windows-server/administration/windows-commands/windows-commands)
 
